@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+
+body {
+  font-family: "Bebas Neue", cursive;
+}
+
+#my-result {
+  width: 410px;
+  text-align: end;
+}
+
+input {
+  height: 100px;
+  width: 100px;
+  border: none;
+  background-color: black;
+  color: aliceblue;
+  font-size: 20px;
+}
+
+.calculator-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
